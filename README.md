@@ -66,7 +66,6 @@ Add an additional section to the page, such as a skills section. Don’t forget 
  
  ## My Submission ##
  
- https://lysdora.github.io/techdegree-project-2/index.html
 
 ### desktopk ###
 
