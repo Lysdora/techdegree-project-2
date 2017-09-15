@@ -91,8 +91,7 @@ header {
     border-radius: 2px;
 }
 
-.main-nav li a:link,
-.main-nav li a:visited{
+.main-nav li a {
     padding: 10px 0 10px 0;
     display: block;
     font-weight: 700;
@@ -104,8 +103,7 @@ header {
     text-transform: uppercase;
 }
 
-.main-nav a:hover,
-.main-nava:active{
+.main-nav a:hover {
     background-color: rgba( 135, 243, 181, 0.62);
     border-radius: 3px;
     color: white;
