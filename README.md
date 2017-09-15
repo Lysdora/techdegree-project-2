@@ -29,12 +29,17 @@ You will write CSS to style the page for a small mobile device first. Then, usin
 * Match the design as it should look on a tablet device that is 768px wide and a desktop screen size that is 1024px wide.
 * Use a mobile-first approach by writing your media queries using the min-width property in your CSS.
 
+----------------------------------------------------
 
 **Once all your breakpoints are in place, double check your layout matches the three mockups.**
 * The design does not need to be exact, but the general spacing and arrangement of the elements should match the design of the mockups for mobile, tablet and desktop.
 * Feel free to replace the profile image and customize the text, but the layouts should match the mockups.
 
+----------------------------------------------------
+
 **Link your navigation menu to the correct sections of the page using IDs to link to anchor tags. See this video on Linking to Sections of a Web Page.**
+
+----------------------------------------------------
 
 **Make sure to check your code is valid by running it through an HTML and CSS validator.**
 * Links to the validators can be found in the Project Resources. This will help you spot any errors that might be in your code.
@@ -42,8 +47,12 @@ You will write CSS to style the page for a small mobile device first. Then, usin
   * Don’t worry about any warnings, we just need you to check any errors that might be there.
   * If CSS validator flags use of calc, vendor prefixes or pseudo-elements/pseudo-classes these errors should be ignored.
   * If HTML validator flags use of pipe (‘|’) in Google font links/URLs this error can also be ignored.
+  
+  ----------------------------------------------------
  
 **Before you submit your project for review, make sure you can check off all of the items on the Student Project Submission Checklist. The checklist is designed to help you make sure you’ve met the grading requirements and that your project is complete and ready to be submitted!**
+
+----------------------------------------------------
 
 **Extra Credit**
 
@@ -56,6 +65,8 @@ Add an additional section to the page, such as a skills section. Don’t forget 
  * Any additional styling for links (ie, borders, hover states).
  
  ## My Submission ##
+ 
+ https://lysdora.github.io/techdegree-project-2/index.html
 
 ### desktopk ###
 
