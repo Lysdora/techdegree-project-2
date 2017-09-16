@@ -1,7 +1,7 @@
 # Responsive Layout
 ## techdegree-project-2
 
-**Project Submit 14/09/2017**
+**Project Submit 15/09/2017**
 
 **Passed with exceeds expectations**
 
